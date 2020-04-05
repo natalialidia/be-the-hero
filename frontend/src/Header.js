@@ -10,6 +10,7 @@ export default function Header({children}) {
 				{children}
 
 			</h1>
+			
 		</header>
 
 	);
